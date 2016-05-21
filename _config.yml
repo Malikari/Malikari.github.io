@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-CA"
+locale                   : "en-US"
 title                    : "Matthew Thomason"
 title_separator          : "-"
 name                     : "Matt Thomason"
@@ -65,7 +65,7 @@ author:
   avatar           : "matt-thomason-photo.jpg"
   bio              : "A work in progress."
   location         : "Toronto, ON"
-  email            : 
+  email            : "matthewwtt@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
