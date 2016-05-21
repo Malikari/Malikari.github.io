@@ -11,9 +11,9 @@ title                    : "Matthew Thomason"
 title_separator          : "-"
 name                     : "Matt Thomason"
 description              : "A work in progress."
-url                      : "https://matthewthomason.com"
-baseurl                  : "/"
-gh_repo                  : "https://github.com/Malikari"
+url                      : 
+baseurl                  : 
+gh_repo                  : "Malikari"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -62,7 +62,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Matt Thomason"
-  avatar           : "bio-photo.jpg"
+  avatar           : #"bio-photo.jpg"
   bio              : "A work in progress."
   location         : "Toronto, ON"
   email            : "matthewwtt@gmail.com"
@@ -73,18 +73,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Malikari"
+  github           : "Malikari"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/thomasonmatthew"
+  linkedin         : thomasonmatthew"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/IAmMalikari"
+  twitter          : "IAmMalikari"
   vine             :
   weibo            :
   xing             :
