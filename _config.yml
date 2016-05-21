@@ -37,7 +37,7 @@ yandex_site_verification :
 twitter:
   username               : "IAmMalikari"
 facebook:
-  username               : matthew.w.thomason
+  username               : "matthew.w.thomason"
   app_id                 :
   publisher              :
 og_image                 : "matt-thomason-photo.jpg"
@@ -71,14 +71,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "matthew.w.thomason"
   foursquare       :
   github           : "Malikari"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : thomasonmatthew"
+  linkedin         : "thomasonmatthew"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
